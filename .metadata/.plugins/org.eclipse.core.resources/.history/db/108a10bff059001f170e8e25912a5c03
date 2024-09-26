@@ -1,0 +1,27 @@
+package ch04_operator;
+ 
+import java.util.Scanner;
+public class thinking {
+public static void main (String[] args) {
+
+
+ //1.증감연산자
+int num = 10;
+num++;
+System.out.println("++이후:"+ num); // ++이후 11
+num--;
+System.out.println("--이후:"+ num);  //--이후 10
+
+
+int a,b;
+a = num++;
+b = ++num;
+System.out.printf("a:%d,b:%d \n", a, b);
+
+
+    
+
+}
+
+}
+

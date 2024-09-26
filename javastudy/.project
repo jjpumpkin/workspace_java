@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaStudy</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ch14_jdbc/jdbc</name>
+			<type>2</type>
+			<location>//Desktop-11hm1c7/공유폴더/01.JAVA/01.실습파일/JavaStudy/src/ch14_jdbc/jdbc</location>
+		</link>
+	</linkedResources>
+</projectDescription>
